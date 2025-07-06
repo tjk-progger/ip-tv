@@ -54,7 +54,7 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FTV.uz" tvg-logo="https://i.imgur.com/7lpISyN.jpg" group-title="Узбекистан",FTV (576p)
 https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTINF:-1 tvg-id="Kinoteatr.uz" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="Узбекистан",Kinoteatr (1080p)
-https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+https://cda.tas-ix.tv/kinoteatr/tracks-v1a1/mono.m3u8?token=cb28d97aafbc716969dd73fb3da9f505737c3f7c-d560c3286c714cf69fcba14f9a0fe55f-1751806073-1751795273
 #EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-logo="https://i.imgur.com/eeNLXCP.png" group-title="Узбекистан",Madaniyat va ma'rifat (480p)
 http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8
 #EXTINF:-1 tvg-id="Mahalla.uz" tvg-logo="https://i.imgur.com/GtABiJI.png" group-title="Узбекистан",Mahalla (480p)
@@ -66,11 +66,11 @@ http://178.217.72.66:8080/multilandiya/index.m3u8
 #EXTINF:-1 tvg-id="MY5.uz" tvg-logo="https://i.imgur.com/bjlzu5k.png" group-title="Узбекистан",MY5 (576p)
 https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Navo.uz" tvg-logo="https://i.imgur.com/7dZ64y9.png" group-title="Узбекистан",Navo (480p)
-http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8
+https://cda.tas-ix.tv/navo/tracks-v1a1/mono.m3u8?token=3fb7f6f64d39cbb014888cd1ba869a20311f6c4f-6ec3dc56c1f78103895c24faea1df6f0-1751806142-1751795342
 #EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="Узбекистан",O'zbekiston 24 (480p)
 http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
 #EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="Узбекистан",O'zbekiston (480p)
-http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
+https://cda.tas-ix.tv/uzb/index.m3u8?token=583c79f5f1ed7d6f558bf4ac50c5c4c4f524d043-a08137cee6cfec1c954605cfb0d4d88d-1751806169-1751795369
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-logo="https://i.imgur.com/iTTd3Ir.png" group-title="Узбекистан",O'zbekiston Tarixi (1080p)
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Qaraqalpaqstan.uz" tvg-logo="https://i.imgur.com/G3qrUJh.png" group-title="Узбекистан",Qaraqalpaqstan (720p)
@@ -88,7 +88,7 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="Узбекистан",Yoshlar (480p)
 http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8
 #EXTINF:-1 tvg-id="ZorTV.uz" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="Узбекистан",Zo'r TV (576p)
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+https://cda.tas-ix.tv/zorta/index.m3u8?token=ad47cd837d9193a16bef4ce04fa7fc644d3241d5-b3f1873d0d986cc9bbc785b409aa8b5a-1751806228-1751795428
 #EXTINF:-1 tvg-id="Detskimir.ru" tvg-logo="https://i.imgur.com/bBVEP0S.png" group-title="Узбекистан" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Детский мир (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s58/index.m3u8
